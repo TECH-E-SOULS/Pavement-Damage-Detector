@@ -1,4 +1,4 @@
-# 🛣️Pavement_condition_assessment
+# 🛣️Pavement Condition Assessment
 
 1. This application is based on machine learning algorithm that can be used for assessment of pavement condition and the future prospects.
 
@@ -13,10 +13,12 @@
 2. Keras
 3. Tkinter
 
-### This project is also contributed by Govinda Saxena (https://github.com/sarthak231020)
-
 ## Screenshots
 
-![Screenshot (195)](https://user-images.githubusercontent.com/40329238/77325393-41596900-6d3e-11ea-90b2-ea4e3ac65a8b.png)
+### New UI 
+![Screenshot (317)](https://user-images.githubusercontent.com/40329238/79243593-75363300-7e93-11ea-8b90-a7ea1ba768ed.png)
 
+### Old UI
+![Screenshot (195)](https://user-images.githubusercontent.com/40329238/77325393-41596900-6d3e-11ea-90b2-ea4e3ac65a8b.png)
 ![Screenshot (196)](https://user-images.githubusercontent.com/40329238/77325474-6221be80-6d3e-11ea-84aa-82f112e572dc.png)
+
